@@ -11,6 +11,12 @@ transport pair (HTTP + WS) serving it.
 channel they belong to, and every other live subscriber receives it in
 real time over an open GraphQL subscription.
 
+## Screenshots
+
+![GraphQL mutation and live subscription](docs/screenshots/subscription.png)
+
+_These images are illustrative mockups rendered from this repository's documented screens and API shapes, not captures of a running build. Regenerate or replace them with real captures once the app is running._
+
 ## Quick start
 
 ```bash
