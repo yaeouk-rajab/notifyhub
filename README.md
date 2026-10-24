@@ -15,7 +15,7 @@ real time over an open GraphQL subscription.
 
 ![GraphQL mutation and live subscription](docs/screenshots/subscription.png)
 
-_These images are illustrative mockups rendered from this repository's documented screens and API shapes, not captures of a running build. Regenerate or replace them with real captures once the app is running._
+_Real output captured from a locally running instance (register, query, mutation and a live WebSocket subscription against PostgreSQL). Regenerate it by running the server and repeating those calls._
 
 ## Quick start
 
