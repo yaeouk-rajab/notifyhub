@@ -11,6 +11,12 @@ transport pair (HTTP + WS) serving it.
 channel they belong to, and every other live subscriber receives it in
 real time over an open GraphQL subscription.
 
+## Screenshots
+
+![GraphQL mutation and live subscription](docs/screenshots/subscription.png)
+
+_Real output captured from a locally running instance (register, query, mutation and a live WebSocket subscription against PostgreSQL). Regenerate it by running the server and repeating those calls._
+
 ## Quick start
 
 ```bash
